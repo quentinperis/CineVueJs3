@@ -1,3 +1,11 @@
+# Aperçu du site
+
+![Aperçu du cinéma](src/assets/img/AperçuDuCinema.png)
+
+# Lien du site :
+
+https://cine-vue-js3.vercel.app/
+
 # booster-vue-exo
 
 This template should help get you started developing with Vue 3 in Vite.
